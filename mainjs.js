@@ -1,5 +1,5 @@
 var lpmovie = 'http://gomovie.us/?p=';
-var imgdrive = 'http://muvia.xyz';
+var imgdrive = 'http://gomovie.us/?p=';
 var longjsonbook = 'http://semprol.cf/json/k1.json';
 var sortjsonbook = 'http://semprol.cf/json.json';
 var longjsonmovie = '';
