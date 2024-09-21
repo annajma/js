@@ -1,5 +1,5 @@
-var lpmovie = 'http://gomovie.us';
-var imgdrive = 'http://gomovie.us';
+var lpmovie = 'https://watch-full-movie.web.app';
+var imgdrive = 'https://watch-full-movie.web.app';
 var longjsonbook = 'http://semprol.cf/json/k1.json';
 var sortjsonbook = 'http://semprol.cf/json.json';
 var longjsonmovie = '';
