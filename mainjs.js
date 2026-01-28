@@ -1,5 +1,11 @@
 var teks = document.querySelector("u").innerText;
 let texturi = teks.replace(/\s+/g, '-');
+let teksuri2 = teks.replace(/\s+/g, '+');
+
+var pst = document.getElementById("pst");
+pst.id = "poster";
+pst.style.removeProperty("float");
+pst.innerHTML = '<img src="https://ts1.mm.bing.net/th?q='+teksuri2+'+poster" style="max-width: 200px"></img>';
 
 var tbl1 = document.getElementById("tbl1");
 tbl1.id = "tombol1";
